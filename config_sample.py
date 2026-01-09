@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+BOT_TOKEN = "8576431241:AAHu6ghXM6HDb-KLsdhsRIGCmzHwq1kX-7w"
+OWNER_ID = 5665480584
+TELEGRAM_API = 28408609
+TELEGRAM_HASH = "d6ddeafb0c189d91b8197ad49103e806"
+DATABASE_URL = "mongodb+srv://teddugovardhan544_db_user:WVjIA96jQ31net0j@cluster0.kwkkleo.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
